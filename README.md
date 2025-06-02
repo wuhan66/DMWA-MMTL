@@ -47,10 +47,6 @@ This repository provides an efficient training pipeline for YOLO-EMAC using [Ult
 ---
 
 ## Validation
-[`yolov-emac-deeppcb`](https://github.com/wuhan66/YOLO-EMAC/edit/main/training_logs_and_weights/deeppcb/best.pt)
-[`yolov-emac-pcbdefect`](https://github.com/wuhan66/YOLO-EMAC/edit/main/training_logs_and_weights/pcbdefect/best.pt)
-[`yolov-emac-pcbsurface`](https://github.com/wuhan66/YOLO-EMAC/edit/main/training_logs_and_weights/pcbsurface/best.pt)
-
 ```python
 from ultralytics import YOLO
 
