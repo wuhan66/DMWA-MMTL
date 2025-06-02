@@ -1,12 +1,6 @@
 <div align="center">
 <h1>DMWA-MMTL</h1>
-<h3>A Novel24hours × 7daysBrokenWireDetection and Segmentation Framework Based on Dynamic Multi-Window Attention and Meta-transfer Learning</h3>
-
-```
-[Han Wu](https://github.com/wuhan66/YOLO-EMAC/)<sup>1,2</sup>, [Yunhan Lin]()<sup>1,2</sup>  
-<sup>1</sup> School of Computer Science and Technology, Wuhan University of Science and Technology, Wuhan, China  
-<sup>2</sup> Hubei Provincial Key Laboratory of Intelligent Information Processing and Real Time Industrial System, Wuhan, China
-```
+<h3>A Novel 24 hours × 7 days Broken Wire Detection and Segmentation Framework Based on Dynamic Multi-Window Attention and Meta-transfer Learning</h3>
 
 </div>
 
