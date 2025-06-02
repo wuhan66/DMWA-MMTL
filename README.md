@@ -8,7 +8,7 @@
 ```
 wget https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.3/flash_attn-2.7.3+cu11torch2.2cxx11abiFALSE-cp311-cp311-linux_x86_64.whl
 conda create -n yolov-emac python=3.11
-conda activate yolov-emac
+conda activate DMWA-MMTL
 pip install -r requirements.txt
 pip install -e .
 ```
@@ -30,9 +30,9 @@ results = model.train(
   device="0,1,2,3",
 )
 ```
-# 🚀 YOLO-EMAC with FlashAttention
+# 🚀 DMWA-MMTL with FlashAttention
 
-This repository provides an efficient training pipeline for YOLO-EMAC using [Ultralytics](https://github.com/ultralytics/ultralytics) and [FlashAttention](https://github.com/Dao-AILab/flash-attention), enabling high-speed object detection on multi-GPU setups.
+This repository provides an efficient training pipeline for DMWA-MMTL using [Ultralytics](https://github.com/ultralytics/ultralytics) and [FlashAttention](https://github.com/Dao-AILab/flash-attention), enabling high-speed object detection on multi-GPU setups.
 
 ---
 
